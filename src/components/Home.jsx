@@ -1,11 +1,11 @@
 import React from 'react'
-import Gallery from './Gallery'
-import About from './About'
-import WeatherCard from "./WeatherCard";  // weather component
+// import Gallery from './Gallery'
+// import About from './About'
+// import WeatherCard from "./WeatherCard";  // weather component
 import axios from 'axios'; // API Calls
 import { useState } from "react"; // State Management
 import Button from '@mui/material/Button';
-import TextField from '@mui/material/TextField';
+// import TextField from '@mui/material/TextField';
 import './Home.css';
 
 
